@@ -1,4 +1,4 @@
-# Hi, I'm Pardeepkdev 👋
+# Hi, I'm Pardeep K 👋
 
 I'm a full stack developer with expertise in Angular, JavaScript, TypeScript, Node.js, PHP, CodeIgniter, Laravel, HTML, CSS, SCSS, Web Accessibility, CI/CD, and Jenkins. With over 5 years of experience in the industry, I have worked on a variety of projects, ranging from small websites to large enterprise-level applications.
 
